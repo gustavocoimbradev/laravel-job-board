@@ -3,6 +3,7 @@
     "private": true,
     "type": "module",
     "scripts": {
+        "publish": "git add . && git pull && git commit -m 'laravel-job-board' && git push",
         "build": "vite build",
         "dev": "vite"
     },
