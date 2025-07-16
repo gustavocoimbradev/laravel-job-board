@@ -81,7 +81,6 @@ This is a simple job board project built with Laravel. Created for portfolio pur
 #### Migrations
 
 - [database/migrations/0001_01_01_000000_create_users_table.php](database/migrations/0001_01_01_000000_create_users_table.php) - Creates the users table
-- [database/migrations/0001_01_01_000001_create_cache_table.php](database/migrations/0001_01_01_000001_create_cache_table.php) - Creates the cache table
 - [database/migrations/2025_07_10_210208_create_jobs_table.php](database/migrations/2025_07_10_210208_create_jobs_table.php) - Creates the jobs table
 - [database/migrations/2025_07_12_215606_create_employers_table.php](database/migrations/2025_07_12_215606_create_employers_table.php) - Creates the employers table
 - [database/migrations/2025_07_13_141608_create_job_applications_table.php](database/migrations/2025_07_13_141608_create_job_applications_table.php) - Creates the job applications table
