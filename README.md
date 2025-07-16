@@ -7,7 +7,6 @@ This is a simple job board project built with Laravel. Created for portfolio pur
 #### Features
 
 - User authentication
-
 - Create and manage a company profile
 - Post job listings
 - Edit and delete job posts
