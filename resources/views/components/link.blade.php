@@ -1,0 +1,1 @@
+<a href="{{ $href??'#' }}" target="{{ $target??'_self' }}" {{ $attributes->class(['text-cyan-600 hover:underline']) }}>{{ $slot }}</a>
